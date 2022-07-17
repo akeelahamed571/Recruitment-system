@@ -1,0 +1,81 @@
+/*css for Notifications Page		*/
+
+
+.main1
+{
+	color:#2E4053;
+	text-align:center;
+	text-decoration:none;
+	font-weight:bold;
+	font-family:Rockwell,serif;
+	
+}
+
+
+
+
+
+.main2
+{
+	color:black;
+	font-size:25px;
+	font-family:Trebuchet MS,serif;
+	margin-left:70px;
+	
+}
+
+#logo001
+{
+	width:50px;
+	height:50px;
+	position:absolute;
+	float:right;
+	margin-left:775px;margin-top:-6px;margin-bottom:20px;
+}
+
+.all
+{
+	padding-left:20px;
+	padding-top:20px;
+	color:#5C5A7C;
+	background-image:url('../Images/background1.jpg');
+	margin-left:50px;
+	margin-right:100px;
+	font-size:20px;
+	font-family:Helvetica Narrow, sans-serif;
+	
+}
+#date{
+	
+	margin-right:100px;
+	
+}
+
+#comp{
+	
+	margin-right:100px;
+}
+
+#msg{
+	
+	margin-right:100px;
+}
+#job{
+	color:#11B3A4;
+	padding-left:150px;
+	font-size:25px;
+	font-family:monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

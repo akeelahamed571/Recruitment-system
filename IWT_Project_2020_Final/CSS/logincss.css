@@ -1,0 +1,56 @@
+.loginstatus
+{
+	margin:0 0 0 500px;
+}
+
+
+.reset
+{
+	padding:20px 120px;
+	background-color:black;
+	color:pink;
+	border:3px solid pink;
+	font-family:"lucida console";
+}
+
+.font
+{
+	color:pink;
+	font-family:"lucida console";
+}
+
+.submit
+{
+	padding:10px 240px;
+	
+	border:3px solid pink;
+	font-family:"lucida console";
+}
+
+
+.text
+{
+	text-align:left;
+
+
+}
+
+.form
+{
+	
+	margin:0 400px;
+	background-color:lightgray;
+	width:50%;
+	padding-left:20px;
+}
+
+.bg
+{
+	
+	text-align:center;
+	background-color:yellow;
+}
+
+
+
+

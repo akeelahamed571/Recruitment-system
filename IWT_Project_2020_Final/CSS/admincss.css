@@ -1,0 +1,47 @@
+
+.bcWork
+{
+    width:45%;
+	margin-top:20px;
+	margin-bottom:35px;
+	margin-left:350px;
+	padding:25px;
+	background-color:lightGrey;
+	font-size:20px;
+}
+
+
+.font
+{
+	color:#34495E;
+}
+
+#bttn1
+{
+	font-weight:bold;
+	font-size:16px;
+	font-family:sans-serif;
+	color:white;
+	background-color:orange;
+}
+
+#bttn1:hover
+{
+	background-color:#006400;
+}
+
+
+#linkPwd
+{
+	font-size:18px;
+	text-decoration:none;
+	color:black;
+	font-family:sans-serif;
+	font-weight:bold;
+}
+
+#linkPwd:hover
+{
+	background-color:#19A9AF;
+}
+

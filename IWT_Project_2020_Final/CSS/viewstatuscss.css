@@ -1,0 +1,109 @@
+/*css for view status-bar		*/
+
+#heading1
+{
+	color:#191970;
+	text-align:center;
+	font-weight:bold;
+	margin-left:200px;margin-right:200px;margin-top:20px;
+	padding-bottom:22px;
+	font-family: "Century Gothic", Times, serif;
+	font-size:30px;
+	
+}
+
+#Main_head
+{
+	color:#008080;
+	font-size:35px;
+	font-weight:bold;
+	font-family: "Bahnschrift SemiBold" ,serif;
+	text-align:center;
+}
+
+
+
+
+#details1
+{
+	color:#FFFAFA;
+	background-image:url("../Images/background1.jpg");
+	margin-top:20px;margin-left:75px;margin-right:400px;
+	padding-left:30px;padding-top:20px;;
+	
+	
+}
+
+
+.tophead
+{
+	color:indigo;
+	font-size:22px;
+	font-weight:bold;
+	font-family: "Copperplate Gothic Light", sans-serif;
+	
+	
+}
+
+#para
+{
+	color:#DC143C;
+	font-size:18px;
+	font-weight:bold;
+	font-family: "Courier", serif;
+	
+}
+
+#fpara1
+{
+	color:#ff8000;
+	font-size:30px;
+	font-family:"Franklin Gothic Medium",serif;
+	
+}
+#fpara2
+{
+	color:#ff0000;
+	font-size:25px;
+	font-family:"Ink Free",serif;
+	font-weight:bold;
+}
+
+#fimg
+{
+	width:300px;
+	height:250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
